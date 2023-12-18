@@ -1,0 +1,11 @@
+# Desarrollo de un Sitio Web con HTML y CSS
+
+Este proyecto se trata sobr una pagina web llamada "Perfumeria valdez" la cual busca como objetivo vender productos de perfumeria, cuenta con tres paginas la cual seria la "INICIO" en el cual se le da la bienvenida a la persona que ingreso a la pagina, luego cuenta con la parte llamada "PRODUCTOS" en la cual se encuetra los productos de la pagina que en este caso seria los perfumes, con sus respectivos nombres y precios, tambien cuenta con un boton en la parte de abajo que dice comprar el cual llevaria a la parte para comprar el producto elegido, luego cuenta con la ultima pagina llamada "INFORMACION" donde la cual la persona puede mandar un mensaje de contacto hacia el negocio ya sea duda, o algun error que haya tenido en la pagina o algun problema a la hora de comprar el producto 
+
+# Aclaraciones sobre el desarrollo de la pagina 
+
+Esta pagina fue basada mucho en una de sus clases, la diferencia es el agregado de imagines y cambio de sitios de algunos apartados, tuve problemas con el tema dem media queries ya que se me rompia mucho la pagina y no podia hallar la solucion. Tambien no pude terminar de hacer el apartado ya que el dia de ayer domigno 17/12/23 no estuve en mi casa en todo el dia, y al volver hubo un corte masivo de luz en mi provincia y las provincias vecinas, por lo cual no tuve mucho tiempo en configurar el apartado de media queries, asi que por ese apartado pido disculpas profesor por no haber podido terminar ese apartado. 
+
+La pagina fue creada 100% de mi parte sin ayuda (sin contar de su video en el cual me e basado) y todo lo que use fue rescatado de los videos de las clases que usted nos mando, no utilize ayuda de personas terceras ni use inteligencia artificial para el elaborado de los codigos, todo fue hecho por mi mismo. 
+
+Este es mi proyecto profe, muchas gracias por leer, atentamente su alumno: MATEO LISANDRO REYNOSO, del aula numero 13, soy un alumno de antiguo profesor. Muchas gracias y saludos cordiales!!! 
